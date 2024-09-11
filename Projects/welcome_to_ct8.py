@@ -7,7 +7,7 @@ stage = StageClass()
 
 
 stage.set_background("fall")
-mySprite = codesters.Sprite("fish")
+mySprite = codesters.Sprite("kid")
 mySprite.say("Lit job, you found me")
 
 
